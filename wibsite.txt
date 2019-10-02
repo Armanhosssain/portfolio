@@ -1,0 +1,31 @@
+
+Account Details
+Basic information about your account.
+Username 	epiz_24568168
+Label 	Website for namra.epizy.com
+Main Domain 	0qceo60t.epizy.com
+Status 	PENDING CREATION
+Password 	
+5KEOinVVph
+Created on 	2019-09-30
+
+
+FTP Details
+Connection details for FTP clients.
+
+    help 
+
+Please login to the control panel to enable FTP and file manager access.
+FTP Username 	epiz_24568168
+FTP Password 	
+5KEOinVVph
+FTP Hostname 	ftpupload.net
+FTP Port (optional) 	21
+
+
+epiz_24568168
+Website for namra.epizy.com 
+
+//freenom clientarea pass....arman284131
+email////armanh686@gmail.com
+//admin user----admin///password--pass
